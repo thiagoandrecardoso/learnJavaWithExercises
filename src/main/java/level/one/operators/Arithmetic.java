@@ -2,7 +2,7 @@ package level.one.operators;
 
 /**
  * Os testes para estes metodos estao em:
- * src.test.java.levelOne.operators
+ * src.test.java.level.one.operators
  * MODIFIQUE OS RETURNS
  */
 public class Arithmetic {
