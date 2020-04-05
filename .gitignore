@@ -1,0 +1,16 @@
+
+.idea/compiler.xml
+
+.idea/encodings.xml
+
+.idea/inspectionProfiles/Project_Default.xml
+
+.idea/misc.xml
+
+.idea/workspace.xml
+
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+
+learnJavaWithExercises.iml
