@@ -1,4 +1,4 @@
-package levelOne.operators;
+package level.one.operators;
 
 /**
  * Os testes para estes metodos estao em:

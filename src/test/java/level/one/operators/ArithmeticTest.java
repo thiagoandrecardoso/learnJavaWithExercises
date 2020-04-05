@@ -1,4 +1,4 @@
-package levelOne.operators;
+package level.one.operators;
 
 import org.junit.Before;
 import org.junit.Test;
