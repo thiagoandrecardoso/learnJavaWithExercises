@@ -65,8 +65,7 @@ public class ManipulationBasic {
      * @param array
      * @return se o numero de elementos for par,
      * retornar a soma de todos os elementos dividdo pelo seu tamanho
-     * Se for impar, retornar a soma de todos os elementos multiplicado
-     * pelo seu tamanho *(-1)
+     * Se for impar, retornar a soma de todos os elementos *(-1)
      */
     public int bossMethod(int[] array) {
         // implemente a função aqui.
