@@ -14,3 +14,7 @@ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 
 learnJavaWithExercises.iml
+
+.idea/vcs.xml
+
+.idea/uiDesigner.xml
