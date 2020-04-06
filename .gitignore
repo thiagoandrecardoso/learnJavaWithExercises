@@ -16,3 +16,5 @@ target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputF
 learnJavaWithExercises.iml
 
 .idea/vcs.xml
+
+.idea/uiDesigner.xml

@@ -1,8 +1,8 @@
-package level.two.array;
+package level.three.array;
 
 /**
  * Os testes para estes metodos estao em:
- * src.test.java.level.two.array
+ * src.test.java.level.three.array
  * MODIFIQUE OS RETURNS
  */
 public class SearchAndCalculate {

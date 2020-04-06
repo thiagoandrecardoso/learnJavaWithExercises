@@ -1,5 +1,6 @@
-package level.two.array;
+package level.three.array;
 
+import level.three.array.SearchAndCalculate;
 import org.junit.Before;
 import org.junit.Test;
 
